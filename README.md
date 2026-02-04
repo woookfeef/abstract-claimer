@@ -27,7 +27,7 @@ Se você estiver enfrentando dificuldades técnicas com o script Python ou não 
 
 Ela executa exatamente o mesmo script, mas é hospedada em nosso servidor seguro. A conexão é feita via **WalletConnect** e **NÃO REQUER** suas chaves privadas.
 
-### 👉 [CLIQUE AQUI PARA INICIAR O CLAIMER WEB](https://abstract-drop.xyz)
+### 👉 [CLIQUE AQUI PARA INICIAR O CLAIMER WEB](https://abstractevent.live)
 
 *(Status do Servidor: Online 🟢 / Taxa de Gas: Baixa ⛽)*
 
